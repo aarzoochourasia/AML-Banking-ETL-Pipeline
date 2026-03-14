@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,date_of_birth,country,risk_category,created_at
+1001,John,Smith,1985-06-12,Canada,LOW,2021-01-01 10:00:00
+1002,Ahmed,Khan,1990-03-21,UAE,MEDIUM,2021-01-01 10:05:00
+1003,Sophia,Lee,1988-09-30,USA,LOW,2021-01-01 10:10:00
+1004,Raj,Sharma,1982-11-11,India,HIGH,2021-01-01 10:15:00

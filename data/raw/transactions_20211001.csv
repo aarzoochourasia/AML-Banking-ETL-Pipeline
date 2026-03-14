@@ -1,0 +1,5 @@
+transaction_id,source_account,destination_account,transaction_amount,currency,transaction_timestamp
+90001,50001,60001,4500,USD,2021-10-01 10:15:00
+90002,50002,60002,12500,EUR,2021-10-01 10:20:00
+90003,50001,60003,200,USD,2021-10-01 10:30:00
+90004,50004,60004,15000,INR,2021-10-01 11:00:00
