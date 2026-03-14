@@ -13,26 +13,8 @@ The implementation replicates the workflow typically followed by ETL teams worki
 
 ## Architecture
 
-The pipeline follows a **multi-layer ETL architecture**:
-
-```
-Source Files
-     ↓
-L0 Raw Layer
-(customers_raw, accounts_raw, transactions_raw)
-
-     ↓
-L1 Clean Layer
-(customers_clean, accounts_clean, transactions_clean)
-
-     ↓
-L2 Business Layer
-(transactions_enriched)
-
-     ↓
-L3 AML Detection Layer
-(aml_flags)
-```
+The pipeline follows a **multi-layer ETL architecture**. 
+![Pipeline Architecture](docs/architecture.png)
 
 This layered architecture ensures:
 
