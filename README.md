@@ -15,6 +15,7 @@ The implementation replicates the workflow typically followed by ETL teams worki
 
 The pipeline follows a **multi-layer ETL architecture**. 
 ![Pipeline Architecture](docs/bank_etl_arch.png)
+
 This layered architecture ensures:
 
 * auditability of raw data
