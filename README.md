@@ -14,7 +14,6 @@ The implementation replicates the workflow typically followed by ETL teams worki
 ## Architecture
 
 The pipeline follows a **multi-layer ETL architecture**. 
-![Pipeline Architecture](docs/architecture.png)
 
 This layered architecture ensures:
 
