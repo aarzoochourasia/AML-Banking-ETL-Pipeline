@@ -170,7 +170,7 @@ AML-Banking-ETL-Pipeline
 │       └── transactions_20211001.csv
 │
 ├── docs/
-│   ├── architecture.md
+│   ├── bank_etl_arch.md
 │   ├── etl_workflow.md
 │   └── source_to_target_mapping.md
 │
